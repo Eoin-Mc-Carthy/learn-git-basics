@@ -21,5 +21,8 @@
 ##### Deleting a branch
 		git branch -d <branch name>
  
-#### Creates a branch, and moves you onto it 
+##### Creates a branch, and moves you onto it 
  		git checkout -b <new branch name>
+
+##### commits changes to current branch
+ 		git commit -m 'message'
