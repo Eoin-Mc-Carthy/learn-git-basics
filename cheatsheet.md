@@ -22,8 +22,6 @@
 
 ##### Deleting a branch
 		git branch -d <branch name>
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 ##### Moving your changes to the staging area
         git add <file name>
@@ -42,11 +40,9 @@
 
 ##### Pulling remote changes into your local repo
         git pull origin <branch name>
-=======
- 
+
 ##### Creates a branch, and moves you onto it 
  		git checkout -b <new branch name>
 
 ##### commits changes to current branch
  		git commit -m 'message'
->>>>>>> master
